@@ -1,7 +1,7 @@
-public class Dolphin extends Pet{
+public class    Bird extends Pet{
     private String color;
     
-   public Dolphin(String color){
+   public Bird(String color){
         this.color = color;
     }
    

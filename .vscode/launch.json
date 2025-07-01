@@ -9,7 +9,11 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
+<<<<<<< HEAD
             "projectName": "ejercicios_29bad0bf"
+=======
+            "projectName": "ejercicios_9f5902b7"
+>>>>>>> ad2aff01abc507538a6177d313a3c26b3afa5fd4
         },
         {
             "type": "java",
