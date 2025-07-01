@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ejercicios_9f5902b7"
+        },
+        {
+            "type": "java",
             "name": "Launch with Arguments Prompt",
             "request": "launch",
             "mainClass": "",
@@ -24,7 +31,7 @@
             "request": "launch",
             "mainClass": "App",
             "projectName": "ejercicios_81807125",
-            "args":"Pepe"
+            "args": "Pepe"
         }
     ]
 }
